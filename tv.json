@@ -93,5 +93,20 @@
         "episode_count": 24
     }
     ]
+  },
+    "91768": {
+    "name": "爱书的下克上：为了成为图书管理员不择手段！",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "第一季",
+        "episode_count": 36
+      },
+      {
+        "season_number": 2,
+        "name": "第二季",
+        "episode_count": 12
+      }
+    ]
   }
 }
