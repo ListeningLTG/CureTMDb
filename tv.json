@@ -108,5 +108,30 @@
         "episode_count": 12
       }
     ]
+  },
+    "84980": {
+    "name": "MAR魔兵传奇",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "第一季",
+        "episode_count": 31
+      },
+      {
+        "season_number": 2,
+        "name": "第二季",
+        "episode_count": 22
+      },
+      {
+        "season_number": 3,
+        "name": "第三季",
+        "episode_count": 27
+      },
+      {
+        "season_number": 4,
+        "name": "第四季",
+        "episode_count": 22
+      }
+    ]
   }
 }
